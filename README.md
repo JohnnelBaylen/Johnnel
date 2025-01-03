@@ -35,4 +35,4 @@ The programming languages and technologies I work with.
 
 ---
 
-<p><a href="https://ko-fi.com/Johnnel"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Johnnel" /></a></p>
+ Thanks for visiting my profile  <p><a href="https://ko-fi.com/Johnnel"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Johnnel" /></a></p>
